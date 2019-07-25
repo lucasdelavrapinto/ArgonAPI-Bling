@@ -27,8 +27,12 @@ Demais funções e informações dentro do sitemas não estão funcionando pois 
 
 ## Acesso
 
-
+admin: admin@admin.com
+senha: 123
 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Outros Links
+[Argon Dashboard](https://github.com/creativetimofficial/argon-dashboard-laravel)
