@@ -9,8 +9,8 @@
 
 ## Sobre
 
-Laravel 5.6
-PHP 7.3.6
+ - Laravel 5.6
+ - PHP 7.3.6
 
 ## CRUD
 
@@ -18,7 +18,7 @@ Todo CRUD foi desenvolvido utilizando API V2 do Bling. [Consulte Aqui](https://m
 
 ## Sistema
 
-Demais funções e informações dentro do sitemas não estão funcionando pois servem apenas como exemplo.
+Demais funções e informações dentro do sistema não estão funcionando pois servem apenas como exemplo.
 
 
 ## Desenvolvedor
@@ -27,8 +27,8 @@ Demais funções e informações dentro do sitemas não estão funcionando pois 
 
 ## Acesso
 
-admin: admin@admin.com
-senha: 123
+ - admin: admin@admin.com
+ - senha: 123
 
 ## License
 
